@@ -24,7 +24,7 @@ My goal is to start a career as a junior frontend developer and  become a senior
 --------
 
 ## 5. CODE EXAMPLES
-
+GitHub [Vital-Nahorny](https://github.com/Vital-Nahorny)
 
 -----------
 -----------
@@ -40,5 +40,5 @@ My goal is to start a career as a junior frontend developer and  become a senior
 ------------
 
 ## 8. ENGLISH LEVEL
-
+Elementary (A1).  I'm studying hard at the moment.
 
