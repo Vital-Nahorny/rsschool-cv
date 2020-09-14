@@ -8,9 +8,10 @@
 ----------
 
 ## 3. SUMMARY
-My goal is to start a career as a junior frontend developer and  become a senior frontend developer. I have good analytical skills, I am easy to learn, I work well in a team.
-------------
-------------
+My goal is to start a career as a junior frontend developer and  become a senior frontend developer. 
+I have good analytical skills, I am easy to learn, I work well in a team.
+----------
+----------
 
 ## 4. SKILLS
 >* HTML5
@@ -20,8 +21,8 @@ My goal is to start a career as a junior frontend developer and  become a senior
 >* GIT
 >* Photoshop
 
---------
---------
+-----------
+-----------
 
 ## 5. CODE EXAMPLES
 GitHub [Vital-Nahorny](https://github.com/Vital-Nahorny)
