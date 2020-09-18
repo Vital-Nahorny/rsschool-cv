@@ -7,7 +7,8 @@
 ----------
 ----------
 
-## 3. SUMMARY
+## 3. SUMMARY 
+
 My goal is to start a career as a junior frontend developer and  become a senior frontend developer. 
 I have good analytical skills, I am easy to learn, I work well in a team.
 ----------
